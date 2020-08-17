@@ -62,4 +62,4 @@ These locations serve requests for **CloudFront** and **Route 53**. Requests goi
 
 ![Route 53 Image](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/connect-resources-with-aws-networking/images/4a78924d4547d2980a6ca59b3ccc0f8a_b-13-d-93-be-a-08-b-4-d-27-ad-65-d-354-a-564-d-04-a.png)
 
-
+<img src="https://www.marco.zone/assets/aws-cloudfront.png" width="100" height="100">
