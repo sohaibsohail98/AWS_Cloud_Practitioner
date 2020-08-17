@@ -60,20 +60,13 @@ Get data fast or upload data fast to AWS.
 
 - These locations serve requests for **CloudFront** and **Route 53**. Requests going to either of these services will be routed to the nearest edge location automatically. 
 
-<img align="left" width="100" height="100" src="https://www.marco.zone/assets/aws-cloudfront.png">
-
-<img align="right" width="100" height="100" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/connect-resources-with-aws-networking/images/4a78924d4547d2980a6ca59b3ccc0f8a_b-13-d-93-be-a-08-b-4-d-27-ad-65-d-354-a-564-d-04-a.png">
+<img src="https://www.marco.zone/assets/aws-cloudfront.png" width="100"/> <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/connect-resources-with-aws-networking/images/4a78924d4547d2980a6ca59b3ccc0f8a_b-13-d-93-be-a-08-b-4-d-27-ad-65-d-354-a-564-d-04-a.png" width="100"/>
 
 - S3 Transfer Acceleration traffic and API gateway endpoint traffic also use the AWS Edge Network. 
 
 - This is where you want to use these two services to upload data faster to AWS. 
 
 <img src="https://sandrocirulli.net/site/wp-content/uploads/2019/10/Amazon-Simple-Storage-Service-S3_light-bg@4x.png" width="100"/> <img src="https://i0.wp.com/oddblogger.com/wp-content/uploads/2019/08/Amazon-API-Gateway@4x.png?fit=300%2C300&ssl=1" width="100"/>
-
-
-<img src="https://sandrocirulli.net/site/wp-content/uploads/2019/10/Amazon-Simple-Storage-Service-S3_light-bg@4x.png" width="100" height="100">
-
-<img src="https://i0.wp.com/oddblogger.com/wp-content/uploads/2019/08/Amazon-API-Gateway@4x.png?fit=300%2C300&ssl=1" width="100" height="100" align="right">
 
 - This allows for **low latency** no matter where the end user is geographically located. 
 
