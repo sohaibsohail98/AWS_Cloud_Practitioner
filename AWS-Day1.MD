@@ -115,7 +115,3 @@ This means PaaS relies on IaaS, if a user needed to create a platform as a servi
    - Companies can adopt Cloud but they have legacy on-premise environments. 
    
    - Their customers are not comfortable with Cloud Computing, in some capacity they would use the Cloud.  
- 
-
-TESTTTT
- 
