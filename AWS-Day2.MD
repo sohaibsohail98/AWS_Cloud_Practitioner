@@ -68,6 +68,9 @@ Get data fast or upload data fast to AWS.
 
 - This is where you want to use these two services to upload data faster to AWS. 
 
+<img src="https://sandrocirulli.net/site/wp-content/uploads/2019/10/Amazon-Simple-Storage-Service-S3_light-bg@4x.png" width="100"/> <img src="https://i0.wp.com/oddblogger.com/wp-content/uploads/2019/08/Amazon-API-Gateway@4x.png?fit=300%2C300&ssl=1" width="100"/>
+
+
 <img src="https://sandrocirulli.net/site/wp-content/uploads/2019/10/Amazon-Simple-Storage-Service-S3_light-bg@4x.png" width="100" height="100">
 
 <img src="https://i0.wp.com/oddblogger.com/wp-content/uploads/2019/08/Amazon-API-Gateway@4x.png?fit=300%2C300&ssl=1" width="100" height="100" align="right">
