@@ -62,7 +62,7 @@ Get data fast or upload data fast to AWS.
 
 <img src="https://www.marco.zone/assets/aws-cloudfront.png" width="100" height="100">
 
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/connect-resources-with-aws-networking/images/4a78924d4547d2980a6ca59b3ccc0f8a_b-13-d-93-be-a-08-b-4-d-27-ad-65-d-354-a-564-d-04-a.png" width="100" height="100">
+<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/connect-resources-with-aws-networking/images/4a78924d4547d2980a6ca59b3ccc0f8a_b-13-d-93-be-a-08-b-4-d-27-ad-65-d-354-a-564-d-04-a.png" width="100" height="100" align="right">
 
 - S3 Transfer Acceleration traffic and API gateway endpoint traffic also use the AWS Edge Network. 
 
@@ -70,7 +70,7 @@ Get data fast or upload data fast to AWS.
 
 <img src="https://sandrocirulli.net/site/wp-content/uploads/2019/10/Amazon-Simple-Storage-Service-S3_light-bg@4x.png" width="100" height="100">
 
-<img src="https://i0.wp.com/oddblogger.com/wp-content/uploads/2019/08/Amazon-API-Gateway@4x.png?fit=300%2C300&ssl=1" width="100" height="100">
+<img src="https://i0.wp.com/oddblogger.com/wp-content/uploads/2019/08/Amazon-API-Gateway@4x.png?fit=300%2C300&ssl=1" width="100" height="100" align="right">
 
 - This allows for **low latency** no matter where the end user is geographically located. 
 
@@ -99,5 +99,5 @@ GovCloud caters to government-related customers and government-regulated industr
 
 - In order to create an AWS account, you need to click [here](https://aws.amazon.com/resources/create-account/) and click the yellow button to enter your details. Once this is done, you can select the free AWS plan to start building services within the interface.
 
-<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSCloudHome.png" style="max-height: 50px; max-width: 50px;"/> 
+<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSCloudHome.png" height="48" width="48"/> 
  
