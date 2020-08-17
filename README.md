@@ -59,3 +59,5 @@ AWS Cloud Practitioner Certification allows individuals to be able to demonstrat
 **AWS Cloud Practitioner Essentials:**
 
 - Day 1 - [Cloud Computing](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day1.MD)
+
+- Day 2 - [Global Infrastructure](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day2.MD)

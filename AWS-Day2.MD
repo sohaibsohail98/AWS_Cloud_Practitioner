@@ -2,21 +2,23 @@
 
 ### Introduction and Map Overview
 
-**Where does all this Cloud Computing run?**
+##### **Where does all this Cloud Computing run?**
 
-**69 Availability Zones within 22 Geographic Regions**
+##### **69 Availability Zones within 22 Geographic Regions**
 
-**Many more Edge Locations than AZs**
+##### **Many more Edge Locations than AZs**
 
-AWS serves - more than a million customers in more than 190 countries. 
+##### **The information referred to is listed [here](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day1.MD) on the AWS Website.**
 
-Expanding global infrastructure to help customers **achieve lower latency and higher throughput**.
+- AWS servers - more than a million customers in more than 190 countries. 
 
-**Regions** (22) - Physical location in the world with multiple Availability Zones. 
+- Expanding global infrastructure to help customers **achieve lower latency and higher throughput**.
 
-**Availability Zones** - One or more discrete data centres owned by AWS. 
+- **Regions** (22) - Physical location in the world with multiple Availability Zones. 
 
-**Edge Location** - Datacentre owned by a trusted partner of AWS. 
+- **Availability Zones** - One or more discrete data centres owned by AWS. 
+
+- **Edge Location** - Datacentre owned by a trusted partner of AWS. 
 
 **Regions:**
 
@@ -56,9 +58,46 @@ Get data fast or upload data fast to AWS.
 
 - An Edge location is a datacentre owned by a trusted partner of AWS which has a direct connection to the AWS network. 
 
-These locations serve requests for **CloudFront** and **Route 53**. Requests going to either of these services will be routed to the nearest edge location automatically. 
+- These locations serve requests for **CloudFront** and **Route 53**. Requests going to either of these services will be routed to the nearest edge location automatically. 
 
 <img src="https://www.marco.zone/assets/aws-cloudfront.png" width="100" height="100">
 
 <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/connect-resources-with-aws-networking/images/4a78924d4547d2980a6ca59b3ccc0f8a_b-13-d-93-be-a-08-b-4-d-27-ad-65-d-354-a-564-d-04-a.png" width="100" height="100">
 
+- S3 Transfer Acceleration traffic and API gateway endpoint traffic also use the AWS Edge Network. 
+
+- This is where you want to use these two services to upload data faster to AWS. 
+
+<img src="https://sandrocirulli.net/site/wp-content/uploads/2019/10/Amazon-Simple-Storage-Service-S3_light-bg@4x.png" width="100" height="100">
+
+<img src="https://i0.wp.com/oddblogger.com/wp-content/uploads/2019/08/Amazon-API-Gateway@4x.png?fit=300%2C300&ssl=1" width="100" height="100">
+
+- This allows for **low latency** no matter where the end user is geographically located. 
+
+- AWS Edge Locations outrun the Availability zones. 
+
+**GovCloud Regions (US)**
+
+- AWS GovCloud Regions allow customers to host sensitive Controlled Unclassified Information and other types of regulated workloads. 
+
+- GovCloud Regions - only operated by employees who are US citizens on US soil. 
+
+- They are only accessible to US entities and root account holders who pass a screening process in order to use this particular region. 
+
+Customers can architect secure cloud solutions that comply with:
+ - FedRAMP High baseline
+ - DOJ's Criminal Justice Information Systems (CJIS) Security Policy
+ - US International Traffic in Arms Regulation (ITAR)
+ - Export Administration Regulations (EAR)
+ - Department of Defense (DOD) Cloud Computing Security Requirements Guide
+ 
+- Living in the US can utilise Cloud Computing with Government bodies
+
+GovCloud caters to government-related customers and government-regulated industries who are interested in Cloud Computing especially in AWS. This is important because GovCloud addresses security and compliance, to make sure it meets the AWS requirements. 
+
+**Getting Started: Creating an AWS Account**:
+
+- In order to create an AWS account, you need to click [here](https://aws.amazon.com/resources/create-account/) and click the yellow button to enter your details. Once this is done, you can select the free AWS plan to start building services within the interface.
+
+<img src="file:///Users/sohaibsohail/Desktop/Screenshot%202020-08-17%20at%2021.09.26.png">
+ 
