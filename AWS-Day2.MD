@@ -95,7 +95,8 @@ GovCloud caters to government-related customers and government-regulated industr
 
 - In order to create an AWS account, you need to click [here](https://aws.amazon.com/resources/create-account/) and click the yellow button to enter your details. Once this is done, you can select the free AWS plan to start building services within the interface.
 
-The following screenshot should be how the webpage should appear once the console is loaded upon completion of creating your account.
+- The following screenshot should be how the webpage should appear once the console is loaded upon completion of creating your account.
 
 <img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSCloudHome.png" height="350" width="470"/> 
+ 
  
