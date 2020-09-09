@@ -87,6 +87,6 @@ This will open a pop up, providing options for the type of MFA device to assign:
 
 For the purpose of security our account in this instance, we will be using Virtual MFA Device to multi-authenticate our root account.
 
-In order to this, we downloaded the Google Authenticator app and scanned the QR code. The application provided us with some numbers which need to be entered twice in the MFA codes section of the AWS MFA device setup.
+There are several apps to activate this, for the purpose of this demonstration, we have decided to use the Google Authenticator app. Once the user downloads the app, the QR code needs to be scanned in order to add the AWS account. The application provided us with some numbers which need to be entered twice in the MFA codes section of the AWS MFA device setup.
  
 **This will successfully enable MFA onto the AWS account**
