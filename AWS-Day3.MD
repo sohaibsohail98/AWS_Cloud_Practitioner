@@ -55,7 +55,7 @@ Creating Account Alias:
 
 - Below is a screenshot of how the account aliasing appears:
 
-<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSIAMHome.png" height="150" width="150"/> 
+<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSIAMHome.png" height="200" width="250"/> 
 
 ### **Activate MFA on Root Account:**
 
