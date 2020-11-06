@@ -1,3 +1,5 @@
+# Getting Started:
+
 ## Getting Started: Create individual IAM User:
 
 ### Creating an individual user:
@@ -92,6 +94,8 @@ Once all of these minimum password requirements are set. The security status sho
 
 **This means that you have successfully completed the required security steps of securing the AWS account. All further AWS work should be done from the new user created.**
 
+# Hands On: 
+
 ## Hands On: Intro and Regions:
 
 ### Head over to the N.Virginia Region:
@@ -143,8 +147,4 @@ Launch instance
 - Key pairs are used to get into the server. However, as we are using SSM to login into the instance, we don't need one. So we can select the option: "Proceed without a key pair".
 
 - Proceeding to launch an instance, it will require a few minutes before the server is fully running. 
-
-## Hands On: Sessions Manager:
-
-
 

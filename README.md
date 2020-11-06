@@ -62,6 +62,8 @@ AWS Cloud Practitioner Certification allows individuals to be able to demonstrat
 
 - Day 2 - [Global Infrastructure](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day2.MD)
 
-- Day 3 - [Billing preferences, budgets and alarms](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day3.MD)
+- Day 3 - [Getting Started: Billing preferences, budgets and alarms](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day3.MD)
 
-- Day 4 - [Creating individual IAM user](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day4.MD)
+- Day 4 - [Getting Started: Creating individual IAM user, set a password policy](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day4.MD)
+
+- Day 5 - [Continuing Hands On](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day5.MD)
