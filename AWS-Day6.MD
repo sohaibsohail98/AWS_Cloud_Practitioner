@@ -214,3 +214,13 @@ These are some screenshots of how it can appear for service limits.
 
 <img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSConsolidatedBilling.png" height="200" width="550"/> 
 
+
+
+### Consolidated Billing - Volume Discounts:
+
+- AWS has Volume Discounts for many services. The more you use, the more you save. 
+
+Consolidated Billing let's you take advantage of Volume Discounts. 
+
+<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSCBVolumeDiscounts.png" height="400" width="700"/>
+
