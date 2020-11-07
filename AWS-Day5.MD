@@ -112,3 +112,10 @@ Below is a screenshot of a successful Auto-Scaling group created:
 
 - In RDS, we will be creating a database using PostgreSQL, the template we are choosing is the Free tier. Production is used by big companies looking for the best option, Dev/Test is for small to medium sized businesses. Free tier is the best to get gaining hands on experience. 
 
+- Creating the database using default configurations and adding some additional database options such as the name, backup retention period to 0 days and turning off performance insights. 
+
+- Once we have created the database, it will start it up. 
+
+### Lambda: 
+
+- This will allow any programming language to be executed, tested and carried out. Using CloudWatch, you can also track the log and the changes made to the code within functions. 
