@@ -59,3 +59,56 @@ Below is a screenshot of how it appears in the EC2 instances menu:
 
 - Once this launch configuration is setup, we can select it when creating the auto-scaling instance. 
 
+- While selecting the launch configuration, we will have to implement some settings, this includes VPC and Subnets. 
+
+- Furthermore, Auto-Scaling policies are important because its a set of rules to make adjustments according to specific instance usage. For example, high CPU load or major data transfer may need more computing power, hence the policies will ensure it keeps up with this demand. 
+
+- Note: Load Balancer can distribute incoming traffic across multiple instances using Elastic Load Balancer. It can also monitor the health of its registered instances, and direct traffic only to healthy instances. 
+
+- Configuring the group size, and scaling policies is an important factor when we are creating an auto-scaling group. We can set minimum or maximum capacity limits for our group size. As seen below with the screenshot, autoscaling policies can save resources, time and money:
+
+<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSAutoScalingPolicy.png" height="200" width="550"/>
+
+- This is highly recommended because it allows the business to use as the traffic demands for new instances. 
+
+- There is an option to add notifications to the group to allow tracking of whenever Amazon EC2 Auto Scaling launches or terminates the EC2 instances in the Auto-Scaling group. 
+
+- Once these options are selected, we can review the creation of the auto-scaling group and create it.
+
+Below is a screenshot of a successful Auto-Scaling group created:
+
+<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSAutoScalingCreation.png" height="200" width="550"/>
+
+
+### Elastic Load Balancer:
+
+- This tool allows traffic to be managed with instances, if one AZ is unavailable then it can look for an instance in another AZ. 
+
+- To start up, we will launch some instances. After this, we will create a new load balancer.
+
+- The type of load balancer we selected was ALB - Application Load Balancer - generally the one to use. 
+
+- After selecting two availability zones, selecting internet-facing scheme, default security group, the option for configuring routing appears.
+
+- Creating a new target group - reference to the instances which we want to route traffic to. 
+
+- After this, we need to register the instances we just started to the load balancer and create it. 
+
+<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSLoadBalancerCreator.png" height="200" width="550"/>
+
+### S3 Buckets:
+
+- A place to contain files. Once we navigate to the S3, we uploaded a file just to test out the uploading function.
+
+### CloudFront:
+
+- CloudFront is used as a CDN (Content Distribution Network). Used to share video or static files across the world, loading them as quickly as possible, shortest route to the end user. It will take the content and copy and make it available in multiple edge locations around the world. To access the content, it will go to the nearby edge location instead of connecting to a distant location. 
+
+- Once we create a distribution, it will locate the files in the S3 bucket and copy the content over to multiple global servers to make it quickly accessible. 
+
+- A unique DNS name similarly like in the Elastic Load Balancer, the traffic would access the domain name, which would route the traffic to the nearest edge location. 
+
+### Relational Database Service (RDS):
+
+- In RDS, we will be creating a database using PostgreSQL, the template we are choosing is the Free tier. Production is used by big companies looking for the best option, Dev/Test is for small to medium sized businesses. Free tier is the best to get gaining hands on experience. 
+
