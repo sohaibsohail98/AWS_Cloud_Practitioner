@@ -58,6 +58,8 @@ Four ways to pay EC2 - **On-Demand, Spot, Reserved and Dedicated**:
  
  - Dedicated Host Instances - offered in both On-Demand and Reserved (70% off on-demand pricing)
  
+ 
+ 
  ### EC2 Pricing Cheatsheet:
  
  EC2's 4 pricing models: On-Demand, Spot, Reserved Instances (RI) and Dedicated.
@@ -148,7 +150,7 @@ AMIs (Amazon Machine Images), AWS CloudFormation templates, Software as a servic
 
 - You can use AMIs and other tools when creating a new instance from the AWS marketplace. This is useful when you want to use a service which connects with AWS instances. A screenshot is shared to show how it would look like.
 
-<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSInstancewithMarketplace.png" height="200" width="550"/>
+<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSInstancewithMarketplace.png" height="500" width="700"/>
  
 - This will allow the user to select the relevant AMI and open an instance using it. Most of these AMIs will be charged at a hourly rate so it's important to keep an eye out.
 
@@ -188,7 +190,7 @@ Service Limits:
 
 <img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSTADashboard.png" height="200" width="550"/>
 
-<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSTACostOptimisation.png" height="200" width="550"/>
+<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSTACostOptimisation.png" height="500" width="700"/>
 
 These are some screenshots of how it can appear for service limits.
 
