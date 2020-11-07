@@ -224,3 +224,19 @@ Consolidated Billing let's you take advantage of Volume Discounts.
 
 <img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSCBVolumeDiscounts.png" height="400" width="700"/>
 
+### AWS Cost Explorer:
+
+- AWS Cost Explorer - visualise, understand and manage AWS costs and usage over time.
+
+- Multiple AWS accounts within an AWS organisation - costs will be consolidated in the master account. 
+
+- Default reports - gain insight into user's cost drivers and usage trends: monthly costs based on service, linked account, EC2 runnings hours costs and usage, daily costs and more. Create your own report.
+
+- Feature of forecasting - see future costs, plan ahead and make adjustments.
+
+- Data can be viewed daily or monthly. Filters and grouping functionalities can allow further detailed exploration of the data. (Filter by service, linked account, region) (Group by service, instance type, usage type, Availability zone etc).
+
+
+
+### AWS Budgets:
+
