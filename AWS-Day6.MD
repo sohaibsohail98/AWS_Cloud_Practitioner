@@ -37,7 +37,7 @@ Four ways to pay EC2 - **On-Demand, Spot, Reserved and Dedicated**:
  
  Note: AWS Batch is an easy and convenient way to use Spot Pricing.
  
- <img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSSpotDefinitions.png" height="200" width="550"/>
+ <img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSSpotDefinitions.png" height="200" width="700"/>
  
  
 **Dedicated**: 
