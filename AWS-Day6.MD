@@ -240,3 +240,8 @@ Consolidated Billing let's you take advantage of Volume Discounts.
 
 ### AWS Budgets:
 
+- Plan your service usage, service costs and instance reservations. 
+
+- The first two budgets are free, each budget is $0.02 per day, less than $0.60 a month, 20,000 budgets limit. 
+
+- 

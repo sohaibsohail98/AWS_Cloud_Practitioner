@@ -68,4 +68,7 @@ AWS Cloud Practitioner Certification allows individuals to be able to demonstrat
 
 - Day 5 - [Continuing Hands On](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day5.MD)
 
-- Day 6 - [EC2 Pricing Models](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day6.MD)
+- Day 6 - [Pricing Models](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day6.MD)
+
+- Day 7 - [Continuing Billing and Pricing](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day7.MD)
+
