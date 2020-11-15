@@ -90,3 +90,18 @@ Quick start is in 3 parts:
 
 - Quick Start reference deployments, usually, allow spin up a full functional architecture in less than an hour!
 
+- Each Quick-Start template has its own features, it may be able to offer different values, for example, a unique VPC, or offering more AZs. 
+
+### AWS Cost and Usage Report:
+
+- Generate a detailed spreadsheet, enabling the user to better analyse and understand AWS costs.
+
+- Places the reports into **Amazon S3 Bucket**
+
+- Use **Athena** to turn the report into a queryable database
+
+- Use **QuickSight** to visualise user's billing data as graphics.
+
+In the top right under the username, it would say Billing Dashboard, click on this. Under Cost and Usage reports, create a new report. 
+
+
