@@ -104,4 +104,7 @@ Quick start is in 3 parts:
 
 In the top right under the username, it would say Billing Dashboard, click on this. Under Cost and Usage reports, create a new report. 
 
+- Using **Athena and QuickSight** to analyse this cost and usage report can be useful within AWS.
+
+
 

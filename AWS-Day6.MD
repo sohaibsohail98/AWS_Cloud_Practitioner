@@ -235,13 +235,3 @@ Consolidated Billing let's you take advantage of Volume Discounts.
 - Feature of forecasting - see future costs, plan ahead and make adjustments.
 
 - Data can be viewed daily or monthly. Filters and grouping functionalities can allow further detailed exploration of the data. (Filter by service, linked account, region) (Group by service, instance type, usage type, Availability zone etc).
-
-
-
-### AWS Budgets:
-
-- Plan your service usage, service costs and instance reservations. 
-
-- The first two budgets are free, each budget is $0.02 per day, less than $0.60 a month, 20,000 budgets limit. 
-
-- 

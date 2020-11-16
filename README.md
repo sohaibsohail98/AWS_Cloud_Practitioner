@@ -72,3 +72,4 @@ AWS Cloud Practitioner Certification allows individuals to be able to demonstrat
 
 - Day 7 - [Continuing Billing and Pricing](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day7.MD)
 
+- Day 8 - [Technology Overview](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day8.MD)
