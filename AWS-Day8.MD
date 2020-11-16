@@ -16,7 +16,7 @@
 
 Below is a screenshot of how each functions works:
 
-<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSOrganisationsandAccounts.png" height="400" width="400"/>
+<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSOrganisationsandAccounts.png" height="400" width="550"/>
 
 ### AWS Networking:
 
@@ -42,7 +42,7 @@ Below is a screenshot of how each functions works:
 
 Below is the screenshot of AWS Networking demonstrated visually:
 
-<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSNetworking.png" height="400" width="400"/>
+<img src="https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/Image/AWSNetworking.png" height="400" width="550"/>
 
 - As seen from the screenshot, the EC2 Instance would use Internet Gateway. The subnet needs to know how to reach the internet gateway to access the internet, this is where Route Tables come in. The specific route within the **Route Table** is directed to make sure the **Public Subnet** access the **Internet Gateway**.
 
@@ -52,29 +52,17 @@ Below is the screenshot of AWS Networking demonstrated visually:
 
 ### Database Services:
 
-<img src="https://ccweb.imgix.net/https%3A%2F%2Fccweb.imgix.net%2Fhttps%253A%252F%252Fd3f1iyfxxz8i1e.cloudfront.net%252Fcourses%252Fcourse_image%252Fc777c0e091a7.jpg%3Fauto%3Dformat%26cs%3Dstrip%26fit%3D%26h%3D710%26ixlib%3Dphp-3.3.0%26w%3D400%26s%3D47c860fd5c0791cb256f0ce30ea35375?auto=format&ixlib=php-3.3.0&s=646d12671b17c41c7096bb8f638af9f5" width="100"/>
+<img src="https://ccweb.imgix.net/https%3A%2F%2Fccweb.imgix.net%2Fhttps%253A%252F%252Fd3f1iyfxxz8i1e.cloudfront.net%252Fcourses%252Fcourse_image%252Fc777c0e091a7.jpg%3Fauto%3Dformat%26cs%3Dstrip%26fit%3D%26h%3D710%26ixlib%3Dphp-3.3.0%26w%3D400%26s%3D47c860fd5c0791cb256f0ce30ea35375?auto=format&ixlib=php-3.3.0&s=646d12671b17c41c7096bb8f638af9f5" width="100"/> DynamoDB - NoSQL key/value database
 
-DynamoDB - NoSQL key/value database
+<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/manage-databases-on-aws/images/a5b15f3f330bed3cc5c6efb961c39c78_ce-457896-63-ab-423-a-ba-80-1153-aff-22-b-55.png" width="100"/> DocumentDB - NoSQL Document database that is MongoDB compatible.
 
-<img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/manage-databases-on-aws/images/a5b15f3f330bed3cc5c6efb961c39c78_ce-457896-63-ab-423-a-ba-80-1153-aff-22-b-55.png" width="100"/>
-
-DocumentDB - NoSQL Document database that is MongoDB compatible.
-
-<img src="https://adityasdemos.com/en/Amazon-RDS_light-bg@4x.png" width="100"/>
-
-RDS - Relational Database Service that supports multiple engines; such as MySQL, Postgres, Maria DB, Oracle, Microsoft SQL Server, Aurora
+<img src="https://adityasdemos.com/en/Amazon-RDS_light-bg@4x.png" width="100"/> RDS - Relational Database Service that supports multiple engines; such as MySQL, Postgres, Maria DB, Oracle, Microsoft SQL Server, Aurora
   
   - Aurora: MySQL (5x faster) and PSQL (3x faster) database fully managed.
   - Aurora Serverless - only runs when its needed, like AWS Lambda. 
   
-  <img src="https://dbdb.io/media/logos/amazon-neptune.png" width="100"/>
+  <img src="https://dbdb.io/media/logos/amazon-neptune.png" width="100"/> Neptune - Managed Graph database
   
-  Neptune - Managed Graph database
+   <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/manage-databases-on-aws/images/d123b0f1fc502ce368484a93e76f6546_d-1-b-30237-d-3-cb-48-f-7-a-831-0520-f-9-bdfa-6-a.png" width="100"/> Redshift - Columnar database, petabyte warehouse (1000 TB - 1PB)
   
-   <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/manage-databases-on-aws/images/d123b0f1fc502ce368484a93e76f6546_d-1-b-30237-d-3-cb-48-f-7-a-831-0520-f-9-bdfa-6-a.png" width="100"/>
-  
-  Redshift - Columnar database, petabyte warehouse (1000 TB - 1PB)
-  
-  <img src="https://42vnof42im1n3ecs8l2w7ez1-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/Amazon-ElastiCache@4x-190x190.png" width="100"/>
-  
-  ElastiCache - Redis or, Memcached Database. 
+  <img src="https://42vnof42im1n3ecs8l2w7ez1-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/Amazon-ElastiCache@4x-190x190.png" width="100"/> ElastiCache - Redis or, Memcached Database. 
