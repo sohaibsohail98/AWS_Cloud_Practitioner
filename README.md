@@ -2,6 +2,26 @@
 
 AWS Cloud Practitioner Certification allows individuals to be able to demonstrate basic knowledge of the AWS platform including common use cases and its available services, AWS cloud architectural principles, account security and compliance. It also includes the understanding of AWS Cloud economics including costs, billing and analysis and the value of the AWS cloud.
 
+##### `Course Preparation:` 
+
+**AWS Cloud Practitioner Essentials:**
+
+- Day 1 - [Cloud Computing](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day1.MD)
+
+- Day 2 - [Global Infrastructure](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day2.MD)
+
+- Day 3 - [Getting Started: Billing preferences, budgets and alarms](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day3.MD)
+
+- Day 4 - [Getting Started: Creating individual IAM user, set a password policy](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day4.MD)
+
+- Day 5 - [Continuing Hands On](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day5.MD)
+
+- Day 6 - [Pricing Models](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day6.MD)
+
+- Day 7 - [Continuing Billing and Pricing](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day7.MD)
+
+- Day 8 - [Technology Overview](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day8.MD)
+
 ## Training Overview: 
 
 ##### `Course Objectives:` 
@@ -54,22 +74,3 @@ AWS Cloud Practitioner Certification allows individuals to be able to demonstrat
 - Recognize the various account structures in relation to AWS billing and pricing
 - Identify resources available for billing support
 
-##### `Course Preparation:` 
-
-**AWS Cloud Practitioner Essentials:**
-
-- Day 1 - [Cloud Computing](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day1.MD)
-
-- Day 2 - [Global Infrastructure](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day2.MD)
-
-- Day 3 - [Getting Started: Billing preferences, budgets and alarms](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day3.MD)
-
-- Day 4 - [Getting Started: Creating individual IAM user, set a password policy](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day4.MD)
-
-- Day 5 - [Continuing Hands On](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day5.MD)
-
-- Day 6 - [Pricing Models](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day6.MD)
-
-- Day 7 - [Continuing Billing and Pricing](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day7.MD)
-
-- Day 8 - [Technology Overview](https://github.com/sohaibsohail98/AWS_Cloud_Practitioner/blob/master/AWS-Day8.MD)
