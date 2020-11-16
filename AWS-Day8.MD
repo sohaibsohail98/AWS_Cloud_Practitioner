@@ -52,17 +52,31 @@ Below is the screenshot of AWS Networking demonstrated visually:
 
 ### Database Services:
 
-<img src="https://ccweb.imgix.net/https%3A%2F%2Fccweb.imgix.net%2Fhttps%253A%252F%252Fd3f1iyfxxz8i1e.cloudfront.net%252Fcourses%252Fcourse_image%252Fc777c0e091a7.jpg%3Fauto%3Dformat%26cs%3Dstrip%26fit%3D%26h%3D710%26ixlib%3Dphp-3.3.0%26w%3D400%26s%3D47c860fd5c0791cb256f0ce30ea35375?auto=format&ixlib=php-3.3.0&s=646d12671b17c41c7096bb8f638af9f5" width="100"/> DynamoDB - NoSQL key/value database
+<img src="https://ccweb.imgix.net/https%3A%2F%2Fccweb.imgix.net%2Fhttps%253A%252F%252Fd3f1iyfxxz8i1e.cloudfront.net%252Fcourses%252Fcourse_image%252Fc777c0e091a7.jpg%3Fauto%3Dformat%26cs%3Dstrip%26fit%3D%26h%3D710%26ixlib%3Dphp-3.3.0%26w%3D400%26s%3D47c860fd5c0791cb256f0ce30ea35375?auto=format&ixlib=php-3.3.0&s=646d12671b17c41c7096bb8f638af9f5" width="100"/> DynamoDB - NoSQL key/value database (Cassandra like or Cassandra based), flat and simple database which can scale to millions of records - giving reads and writes per second. 
+
 
 <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/manage-databases-on-aws/images/a5b15f3f330bed3cc5c6efb961c39c78_ce-457896-63-ab-423-a-ba-80-1153-aff-22-b-55.png" width="100"/> DocumentDB - NoSQL Document database that is MongoDB compatible.
 
 <img src="https://adityasdemos.com/en/Amazon-RDS_light-bg@4x.png" width="100"/> RDS - Relational Database Service that supports multiple engines; such as MySQL, Postgres, Maria DB, Oracle, Microsoft SQL Server, Aurora
   
-  - Aurora: MySQL (5x faster) and PSQL (3x faster) database fully managed.
-  - Aurora Serverless - only runs when its needed, like AWS Lambda. 
+  - Aurora: MySQL (5x faster) and PSQL (3x faster) database fully managed. Aurora is highly durable, it can run six copies of the database, across three AZs. It's more expensive compare to RDS. 
+  
+  - Aurora Serverless - only runs when its needed, like AWS Lambda. Less features, a lot more affordable, paying when its needed. Ideal for development or web apps not frequently used or serverless architecture.
+  
   
   <img src="https://dbdb.io/media/logos/amazon-neptune.png" width="100"/> Neptune - Managed Graph database
   
-   <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/manage-databases-on-aws/images/d123b0f1fc502ce368484a93e76f6546_d-1-b-30237-d-3-cb-48-f-7-a-831-0520-f-9-bdfa-6-a.png" width="100"/> Redshift - Columnar database, petabyte warehouse (1000 TB - 1PB)
+   <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/core-aws-services/manage-databases-on-aws/images/d123b0f1fc502ce368484a93e76f6546_d-1-b-30237-d-3-cb-48-f-7-a-831-0520-f-9-bdfa-6-a.png" width="100"/> Redshift - Columnar database, petabyte warehouse (1000 TB - 1PB). Instead of reading through rows, it reads through columns. Ideal working with large amounts of data intelligence.
   
-  <img src="https://42vnof42im1n3ecs8l2w7ez1-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/Amazon-ElastiCache@4x-190x190.png" width="100"/> ElastiCache - Redis or, Memcached Database. 
+  <img src="https://42vnof42im1n3ecs8l2w7ez1-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/Amazon-ElastiCache@4x-190x190.png" width="100"/> ElastiCache - Redis or, Memcached Database (Caching solution, open source like Memcached or Redis). 
+  
+### Provisioning Services:
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTfPo8FZ0YQZVpJAiwTWdxw4QJdgm3lp9vSw&usqp=CAU" width="100"/> Elastic Beanstalk - service for deploying and scaling web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go and Docker. 
+
+<img src="https://datadog-docs.imgix.net/images/integrations_logos/amazon_ops_works.png" width="100"/>  
+
+OpsWorks - configuration management service that provides managed instances of **Chef** and **Puppet**.
+
+<img src="https://lh3.googleusercontent.com/proxy/A7m_w_ROx3MjkKVDWP5qiuT9zo8aEXJ6pcoMFlwI2-LiUSU-CLYAwSS5rm9zSOqJnBP0yvItjAW4EK5TXuJF7szqEmCUdat5g5Lx4ixjRIw" width="100"/> <img src="https://www.supportpro.com/blog/wp-content/uploads/2018/08/puppet_logo2-e1535788584326.png" width="100"/>
+
